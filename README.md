@@ -2,7 +2,7 @@
 
 **Forecast how long an Indian district-court case will stay pending, with an honest measure of uncertainty.**
 
-This project turns millions of historical e-Courts records into a tool that answers one question:
+This project turns millions of historical e-Courts records into a tool that answers one question:  
 *"Given a case's court, type, act and filing date, how likely is it to still be open after 24 months?"*
 It never predicts who wins. It predicts **time**, nothing else.
 
@@ -164,9 +164,9 @@ yourself and follow the provider's terms and citation requirements.
 - Train on more years and states, and add the court names from the key files
 - Optional: DeepHit, competing-risks (settlement vs. contested disposal), calibrated simulator
 
-## License
+## License  
 
-Code: MIT (see `LICENSE`). Documentation: CC BY 4.0. The data keeps its own terms.
+Code: MIT (see `LICENSE`). Documentation: CC BY 4.0. [![License: CC BY 4.0](https://img.shields.io/badge/Docs-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)  The data keeps its own terms.
 
 ## Author
 
